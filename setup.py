@@ -14,7 +14,7 @@ setup(name='l1tf',
                 'numpy==1.6.2',
                 'scikit-learn==0.14.1',
                 'matplotlib==1.1.1',
-                'mako==0.9.1',
+                'mako==1.2.2',
                 'pymongo']
 
      )
